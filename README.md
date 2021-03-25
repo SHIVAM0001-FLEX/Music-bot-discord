@@ -12,7 +12,7 @@ Got any error or any problem with the code? Join this server and ask your questi
 
 ## 📸 Screenshots
 
-<div align="left"><img src="https://linkpicture.com/q/play_2.png"></div><div align="center"><img src="https://www.linkpicture.com/q/queue.png"></div><div align="right"><img src="https://www.linkpicture.com/q/volume_1.png"></div>
+<div align="left"><img src="https://cdn.discordapp.com/attachments/824594957800439848/824609154215706644/play.png"></div><div align="center"><img src="https://cdn.discordapp.com/attachments/824594957800439848/824609198733000714/queue.png"></div><div align="right"><img src="https://cdn.discordapp.com/attachments/824594957800439848/824609182879055902/volume.png"></div>
 
 ## 💨 Run the projects
 Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/SudhanPlayz/Discord-MusicBot)
