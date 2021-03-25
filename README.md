@@ -2,7 +2,7 @@
 <p align="center">Music Discord bot without license</p>
 
 ## 📝 Latest Announcement
-Music-bot-discord v2 will be launched shortly :tada: Suggest Any codes you want on discord add me! Lavaboydev#2014
+Music-bot-discord v2 will be launched in 1/4/2021 :tada: Suggest Any codes you want on discord add me! Lavaboydev#2014
 
 ## 📝 Tutorial
 Tutorial has been uploaded on YouTube <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Watch it by clicking [here](https://youtu.be/EyJBjTwl3QE)
