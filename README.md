@@ -15,7 +15,7 @@ Got any error or any problem with the code? Join this server and ask your questi
 <div align="left"><img src="https://cdn.discordapp.com/attachments/824594957800439848/824617799233044540/play.png"></div><div align="center"><img src="https://cdn.discordapp.com/attachments/824594957800439848/824609198733000714/queue.png"></div><div align="right"><img src="https://cdn.discordapp.com/attachments/824594957800439848/824609182879055902/volume.png"></div>
 
 ## 💨 Run the projects
-Repl: [![Run on Repl.it](https://replit.com/@RayenMichael/Advanced-Discord-music-bot)](https://repl.it/github/SudhanPlayz/Discord-MusicBot)
+Repl: [![Run on Repl.it](https://replit.com/@RayenMichael/Advanced-Discord-music-bot)](https://replit.com/@RayenMichael/Advanced-Discord-music-bot)
 fork it
 
 Made with :heart: and JavaScript!
